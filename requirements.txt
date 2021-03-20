@@ -12,7 +12,7 @@ django-debug-toolbar==0.9.4
 django-extensions==0.7.1
 django-social-auth==0.3.16
 djangoembed==0.1.1
-djangorestframework==0.3.3
+djangorestframework==3.11.2
 facepy==0.6.3
 gdata==2.0.15
 multiprocessing==2.6.2.1
